@@ -11,7 +11,7 @@ step2: npm run dev（本地运行）
 npm run build qa/prod（区分测试与生产环境）
 
 
-针对测试与生产环境，需在 config->prod.env.js & qa.env.js 中修改你不用环境的URL基址
+针对测试与生产环境，需在 config->prod.env.js & qa.env.js 中修改你使用环境的URL基址
 
 
 ** 注意：如对该脚手架进行修改，请严格按照该格式： ！你修改的说明
